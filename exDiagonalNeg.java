@@ -1,7 +1,7 @@
 package exercicios.exerciciosMatrizes;
 import java.util.Locale;
 import java.util.Scanner;
-
+//editando diretamente no GitHub
 public class exDiagonalNeg {
     public static void main(String[] args) {
        Locale.setDefault(Locale.US);

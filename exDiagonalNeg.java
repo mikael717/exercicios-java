@@ -23,7 +23,7 @@ public class exDiagonalNeg {
         for(int i=0; i<n; i++){
             System.out.print(mat[i][i] + " ");
         }
-        System.out.println(); //quebra de linha
+        System.out.println(); //apennas para quebra de linha
 
         int negativos = 0;
 

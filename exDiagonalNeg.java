@@ -7,7 +7,7 @@ public class exDiagonalNeg {
        Locale.setDefault(Locale.US);
        Scanner sc = new Scanner(System.in);
        
-       System.out.print("Qual a ordem da matriz? ");
+       System.out.print("Qual a ordem da matriz?? ");
        int n = sc.nextInt();
 
        int [][] mat = new int [n][n]; 

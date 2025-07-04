@@ -27,7 +27,6 @@ public class Paciente {
     private Endereco endereco;
     private boolean ativo;
 
-    public Paciente(){}
 
     public Paciente(DadosCadastroPaciente dados){
         this.ativo = true;
